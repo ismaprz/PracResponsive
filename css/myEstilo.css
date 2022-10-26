@@ -1,0 +1,26 @@
+*{padding: 0%; margin: 0%;}
+.titulo{display: flex;justify-content: center;align-items: center;background-color: black;color:whitesmoke}
+.header{display: flex;justify-content: space-around;background-color: red;}
+button{border-radius: 45%; text-decoration: none;background-color: black;margin: 20px;}
+a{text-decoration: none;color: whitesmoke; text-decoration: overline;font-weight:900;}
+img{ height: 400px;}
+.video{display: flex;justify-content: center; align-items: center;background-color: black;}
+h1{margin: 20px;font-weight:900;}
+.imagen{display: flex;justify-content: center;align-items: center;}
+img{width: 100%;}
+@media (min-width: 576px) {
+   
+    
+}
+@media (min-width: 768px) {
+    
+}
+@media (min-width: 992px) {
+   
+}
+@media (min-width: 1200px) {
+   
+}
+@media (min-width: 1400px) {
+    
+}
